@@ -1,3 +1,3 @@
 <head>
-  <meta http-equiv='refresh' content='0; URL=https://sites.google.com/view/buffalosunblockedgames/home'>
+  <meta http-equiv='refresh' content='0; URL=https://buffalogames.github.io/spamhistory/'>
 </head>
